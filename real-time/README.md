@@ -1,8 +1,22 @@
+# Real Time Crud App
+
+This project we used Firebase and Firestore.  We needed to make a form to take the information add it to the page, update with new info, and be able to delete.  
+
+## Firebase
+
+Before I even begin I had to create a new next project and install Firebase to be able to use the functions from Firebase and Firestore.
+
+![alt text](image.png)
+Here is my config file that allows me to use the installed firebase.  I imported Firestore to use the functions in Firebase for Firestore.
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+First, run the developmentup server:
 
 ```bash
 npm run dev
